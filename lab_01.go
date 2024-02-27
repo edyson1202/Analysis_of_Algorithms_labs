@@ -113,7 +113,7 @@ func main() {
 		for i := 0; i < 100; i++ {
 			//FastDoubling(int(input_set_02[a]));
 
-			//OptimizedRecursive(int(input_set_03[a]), &cache)
+			OptimizedRecursive(int(input_set_02[a]), &cache)
 			//for j := 0; j < 100; j++ {
 			//	cache[j] = 0
 			//}
