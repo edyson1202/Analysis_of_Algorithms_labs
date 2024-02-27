@@ -1,0 +1,2 @@
+D:\University\4th_Semester\algorithm_analysis\sorting_algorithms\x64\Debug\sorting_algorithms.exe
+D:\University\4th_Semester\algorithm_analysis\code\sorting_algorithms\x64\Debug\sorting_algorithms.exe

@@ -1,0 +1,7 @@
+﻿  sorting_algorithms.cpp
+D:\University\4th_Semester\algorithm_analysis\code\sorting_algorithms\sorting_algorithms.cpp(28,30): warning C4018: '<': signed/unsigned mismatch
+D:\University\4th_Semester\algorithm_analysis\code\sorting_algorithms\sorting_algorithms.cpp(191,28): warning C4018: '<': signed/unsigned mismatch
+D:\University\4th_Semester\algorithm_analysis\code\sorting_algorithms\sorting_algorithms.cpp(196,28): warning C4018: '<': signed/unsigned mismatch
+D:\University\4th_Semester\algorithm_analysis\code\sorting_algorithms\sorting_algorithms.cpp(213,38): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\University\4th_Semester\algorithm_analysis\code\sorting_algorithms\sorting_algorithms.cpp(214,41): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  sorting_algorithms.vcxproj -> D:\University\4th_Semester\algorithm_analysis\code\sorting_algorithms\x64\Debug\sorting_algorithms.exe
