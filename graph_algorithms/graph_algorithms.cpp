@@ -15,7 +15,6 @@ public:
     void DFS(char v);
     void DFS_intern(char v, std::unordered_map<char, bool>& visited);
     void BFS(char v);
-    void BFS_intern(char v, std::unordered_map<char, bool>& visited);
 private:
     std::unordered_map<int, std::vector<int>> m_Edges;
 };
@@ -58,9 +57,6 @@ void Graph::BFS(char v) {
             }
         }
     }
-}
-void Graph::BFS_intern(char v, std::unordered_map<char, bool>& visited) {
-
 }
 
 int main()
